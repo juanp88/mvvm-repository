@@ -1,0 +1,20 @@
+{ 
+   "title": "Time zones app", 
+   "time-zones":[
+    "America/Boa_Vista",
+    "America/Bogota",
+    "America/Boise",
+    "America/Cambridge_Bay",
+    "America/Campo_Grande",
+    "America/Cancun",
+    "America/Caracas",
+    "America/Cayenne",
+    "America/Chicago",
+    "America/Chihuahua",
+    "America/Costa_Rica",
+    "America/Creston",
+    "America/Cuiaba",
+    "America/Curacao",
+    "America/Danmarkshavn"
+   ]
+  }
